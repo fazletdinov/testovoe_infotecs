@@ -8,7 +8,7 @@
 ## Чтобы запустить проект у себя локально, вам необохимо
 Склонировать репозиторий
 
-`git clone https://github.com/fazletdinov`
+`git clone https://github.com/fazletdinov/testovoe_infotecs.git`
 
 Далее необходимо создать виртуальное окружение
 и установить все необходимые зависимости
